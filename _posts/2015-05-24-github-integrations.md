@@ -10,4 +10,4 @@ The quick brown fox jumps over the lazy dog.
 
 [My broken URL](http://www.google.com)
 
-[One more broken URL for love](http://www.google.comquat)
+[One more broken URL for love](http://www.google.com)
